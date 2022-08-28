@@ -1,0 +1,45 @@
+Learning objectives
+
+In this module, you will learn how to:
+
+Summarize approaches to monitoring your AWS environment.
+Describe the benefits of Amazon CloudWatch.
+Describe the benefits of AWS CloudTrail.
+Describe the benefits of AWS Trusted Advisor.
+
+
+https://aws.amazon.com/cloudwatch/
+
+https://aws.amazon.com/cloudwatch/
+
+https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/working_with_metrics.html
+
+https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html
+
+https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch_Dashboards.html
+
+https://aws.amazon.com/cloudtrail/
+
+https://docs.aws.amazon.com/awscloudtrail/latest/userguide/logging-insights-events-with-cloudtrail.html
+
+https://aws.amazon.com/premiumsupport/technology/trusted-advisor/
+
+In Module 7, you learned about the following concepts:
+
+Amazon CloudWatch
+AWS CloudTrail
+AWS Trusted Advisor
+
+Additional resources
+
+To learn more about the concepts that were explored in Module 7, review these resources.
+
+https://aws.amazon.com/products/management-and-governance/
+
+https://aws.amazon.com/products/management-and-governance/use-cases/monitoring-and-observability/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc&blog-posts-cards.sort-by=item.additionalFields.createdDate&blog-posts-cards.sort-order=desc
+
+https://aws.amazon.com/products/management-and-governance/use-cases/configuration-compliance-and-auditing/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc&blog-posts-cards.sort-by=item.additionalFields.createdDate&blog-posts-cards.sort-order=desc
+
+https://aws.amazon.com/blogs/mt/
+
+https://docs.aws.amazon.com/whitepapers/latest/aws-governance-at-scale/aws-governance-at-scale.html

@@ -1,0 +1,86 @@
+Learning objectives
+
+In this module, you will learn how to:
+
+Summarize the basic concept of storage and databases.
+Describe the benefits of Amazon Elastic Block Store (Amazon EBS).
+Describe the benefits of Amazon Simple Storage Service (Amazon S3).
+Describe the benefits of Amazon Elastic File System (Amazon EFS).
+Summarize various storage solutions.
+Describe the benefits of Amazon Relational Database Service (Amazon RDS).
+Describe the benefits of Amazon DynamoDB.
+Summarize various database services.
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html
+
+https://aws.amazon.com/ebs/
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes.html
+
+https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html
+
+https://aws.amazon.com/s3/
+
+https://aws.amazon.com/what-is-cloud-object-storage/
+
+https://aws.amazon.com/s3/storage-classes/
+
+https://aws.amazon.com/efs/
+
+https://aws.amazon.com/rds/
+
+https://aws.amazon.com/rds/aurora/
+
+https://aws.amazon.com/dynamodb/
+
+https://aws.amazon.com/documentdb/
+
+https://docs.aws.amazon.com/dms/index.html
+
+https://aws.amazon.com/dms/
+
+https://aws.amazon.com/redshift/
+
+https://aws.amazon.com/dynamodb/dax/
+
+https://aws.amazon.com/elasticache/
+
+https://aws.amazon.com/managed-blockchain/
+
+https://aws.amazon.com/qldb/
+
+https://aws.amazon.com/neptune/
+
+In Module 5, you learned about the following concepts:
+
+Amazon EC2 instance store and Amazon EBS
+Amazon S3
+Amazon EFS
+Relational databases and Amazon RDS
+Nonrelational databases and DynamoDB
+Amazon Redshift
+AWS DMS
+Additional database services and accelerators
+
+Additional resources
+
+To learn more about the concepts that were explored in Module 5, review these resources.
+
+https://aws.amazon.com/products/storage/
+
+https://aws.amazon.com/blogs/storage/
+
+https://aws.amazon.com/getting-started/hands-on/?awsf.getting-started-category=category%23storage&awsf.getting-started-content-type=content-type%23hands-on&getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-level=*all
+
+https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-product=product%23vpc%7Cproduct%23api-gateway%7Cproduct%23cloudfront%7Cproduct%23route53%7Cproduct%23directconnect%7Cproduct%23elb&awsf.customer-references-category=category%23storage&awsf.content-type=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=*all
+
+https://aws.amazon.com/products/databases/
+
+https://aws.amazon.com/getting-started/deep-dive-databases/
+
+https://aws.amazon.com/blogs/database/
+
+https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-product=product%23vpc%7Cproduct%23api-gateway%7Cproduct%23cloudfront%7Cproduct%23route53%7Cproduct%23directconnect%7Cproduct%23elb&awsf.customer-references-category=category%23databases&awsf.content-type=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=*all
+

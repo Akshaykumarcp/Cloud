@@ -1,0 +1,68 @@
+Learning objectives
+
+In this module, you will learn how to:
+
+Explain the benefits of the shared responsibility model.
+Describe multi-factor authentication (MFA).
+Differentiate between the AWS Identity and Access Management (IAM) security levels.
+Explain the main benefits of AWS Organizations.
+Describe security policies at a basic level.
+Summarize the benefits of compliance with AWS.
+Explain additional AWS security services at a basic level.
+
+https://aws.amazon.com/compliance/shared-responsibility-model/
+
+https://aws.amazon.com/iam/
+
+https://aws.amazon.com/iam/features/mfa/
+
+https://aws.amazon.com/organizations/
+
+https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html
+
+https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_attach.html
+
+https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html
+
+https://aws.amazon.com/artifact/
+
+https://aws.amazon.com/compliance/customer-center/
+
+https://aws.amazon.com/shield/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc
+
+https://aws.amazon.com/kms/
+
+https://aws.amazon.com/waf/
+
+https://docs.aws.amazon.com/waf/latest/developerguide/web-acl.html
+
+https://aws.amazon.com/inspector/
+
+https://aws.amazon.com/guardduty/
+
+In Module 6, you learned about the following concepts:
+
+The shared responsibility model
+Features of AWS Identity and Access Management
+Methods of managing multiple accounts in AWS Organizations
+AWS compliance resources
+AWS services for application security and encryption
+
+https://aws.amazon.com/products/security/
+
+https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/welcome.html
+
+https://docs.aws.amazon.com/whitepapers/latest/aws-overview-security-processes/aws-overview-security-processes.pdf
+
+https://aws.amazon.com/blogs/security/
+
+https://aws.amazon.com/compliance/
+
+https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-product=product%23vpc%7Cproduct%23api-gateway%7Cproduct%23cloudfront%7Cproduct%23route53%7Cproduct%23directconnect%7Cproduct%23elb&awsf.customer-references-category=category%23security-identity-compliance&awsf.content-type=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=*all
+
+https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
+
+
+
+
+

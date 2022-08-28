@@ -1,0 +1,31 @@
+Learning objectives
+
+In this module, you will learn how to:
+
+Describe the basic concepts of networking.
+Describe the difference between public and private networking resources. 
+Explain a virtual private gateway using a real life scenario. 
+Explain a virtual private network (VPN) using a real life scenario.
+Describe the benefit of AWS Direct Connect. 
+Describe the benefit of hybrid deployments. 
+Describe the layers of security used in an IT strategy.
+Describe the services customers use to interact with the AWS global network.
+
+https://aws.amazon.com/products/networking/
+
+https://aws.amazon.com/blogs/networking-and-content-delivery/
+
+https://aws.amazon.com/vpc/
+https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
+https://docs.aws.amazon.com/vpc/latest/userguide/how-it-works.html
+https://aws.amazon.com/directconnect/
+https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
+
+https://aws.amazon.com/route53/
+
+https://aws.amazon.com/directconnect/
+
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
+
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html

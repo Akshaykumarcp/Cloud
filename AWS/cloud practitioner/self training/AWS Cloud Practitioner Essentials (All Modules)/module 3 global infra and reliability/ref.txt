@@ -1,0 +1,26 @@
+https://aws.amazon.com/about-aws/global-infrastructure/
+
+https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+
+https://docs.aws.amazon.com/AmazonElastiCache/latest/mem-ug/RegionsAndAZs.html
+
+The AWS Management Console, AWS CLI, and SDKs
+AWS Elastic Beanstalk
+AWS CloudFormation
+
+https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.concept.edge-location.en.html
+
+https://aws.amazon.com/cloudfront/
+
+https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitioner-essentials-all-modules
+
+https://aws.amazon.com/developer/tools/
+
+https://aws.amazon.com/blogs/networking-and-content-delivery/
+
+https://aws.amazon.com/elasticbeanstalk/
+
+https://aws.amazon.com/cloudformation/
+
+https://aws.amazon.com/outposts/
+
