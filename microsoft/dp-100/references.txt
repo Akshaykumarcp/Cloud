@@ -1,0 +1,18 @@
+Watch DP-100 exam prep videos on Learn: 
+
+	https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-dp-100-design-and-prepare-a-machine-learning-solution-1-of-4
+
+DP 100 study guide: 
+	https://aka.ms/DP100-StudyGuide
+
+https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-100/
+
+self training
+
+	https://learn.microsoft.com/en-us/training/courses/dp-100t01
+	
+	https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-100/#two-ways-to-prepare
+	
+syllabus
+
+	https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-100
