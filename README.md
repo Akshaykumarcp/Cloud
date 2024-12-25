@@ -1,2 +1,2 @@
 # Cloud
-Microsoft Azure | Amazon AWS
+Microsoft Azure | Amazon AWS | Oracle | Databricks
