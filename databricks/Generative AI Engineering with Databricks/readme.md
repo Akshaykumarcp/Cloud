@@ -1,0 +1,2 @@
+- course link: [click here](https://www.databricks.com/training/catalog/generative-ai-engineering-with-databricks-1980)
+- Course completion certificate: in current folder
